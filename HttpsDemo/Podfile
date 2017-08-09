@@ -1,0 +1,11 @@
+platform :ios, ‘9.0’
+
+ 
+use_frameworks!
+
+
+target 'HttpsDemo’ do
+    pod 'AFNetworking', '~> 3.1.0'
+   
+end
+
